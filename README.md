@@ -10,3 +10,9 @@
 
 ### Toggle Menu
 ![Toggle Menu](https://i.imgur.com/KaV6EmG.png)
+
+### Skeleton Theme White
+![Skeleton Theme White](https://i.imgur.com/WqnYea7.png)
+
+### Skeleton Theme Dark
+![Skeleton Theme Dark](https://i.imgur.com/Db6egBL.png)
